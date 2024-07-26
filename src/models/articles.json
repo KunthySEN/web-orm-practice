@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Mastering the Art of Baking",
+    "contents": "A comprehensive guide to baking delicious treats and improving your skills.",
+    "created_by_user_id": 1,
+    "is_published": true,
+    "created_at": "2024-06-01T08:00:00Z",
+    "updated_at": "2024-06-01T08:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Innovations in Solar Power",
+    "contents": "Exploring the latest breakthroughs in solar energy technology.",
+    "created_by_user_id": 2,
+    "is_published": true,
+    "created_at": "2024-06-02T10:30:00Z",
+    "updated_at": "2024-06-02T10:30:00Z"
+  },
+  {
+    "id": 3,
+    "title": "The Benefits of Yoga",
+    "contents": "Understanding how yoga can improve physical and mental health.",
+    "created_by_user_id": 1,
+    "is_published": true,
+    "created_at": "2024-06-03T15:45:00Z",
+    "updated_at": "2024-06-03T15:45:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Journey to Mars",
+    "contents": "An in-depth look at the challenges and opportunities of human missions to Mars.",
+    "created_by_user_id": 3,
+    "is_published": true,
+    "created_at": "2024-06-04T12:00:00Z",
+    "updated_at": "2024-06-04T12:00:00Z"
+  },
+  {
+    "id": 5,
+    "title": "AI in Healthcare",
+    "contents": "Examining the role of artificial intelligence in transforming healthcare.",
+    "created_by_user_id": 3,
+    "is_published": false,
+    "created_at": "2024-06-05T09:30:00Z",
+    "updated_at": "2024-06-05T09:30:00Z"
+  },
+  {
+    "id": 6,
+    "title": "The Future of Transportation",
+    "contents": "Investigating the advancements in transportation technology and their impact on society.",
+    "created_by_user_id": 4,
+    "is_published": true,
+    "created_at": "2024-06-06T14:00:00Z",
+    "updated_at": "2024-06-06T14:00:00Z"
+  }
+]
