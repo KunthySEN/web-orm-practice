@@ -7,13 +7,12 @@ dotenv.config({ path: __dirname + '/../.env' });
 
 const webapp = express();
 
-webapp.use('/public', express.static('src/assets'));
 
 webapp.use(express.json());
 
 webapp.get('/', (req, res) => {
   res.send(
-    "<h1 style='color: red'>ORM - Practice <img src='/public/img/logo.png' /></h1>"
+    "<h1 style='color: red'>ORM - Practice</h1>"
   );
 });
 
